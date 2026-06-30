@@ -4,7 +4,7 @@ function ProjectsPage() {
   return (
     <div>
       <a
-        href="/"
+          href="/portfolio/"
         style={{
           color: "#38BDF8",
           textDecoration: "none",

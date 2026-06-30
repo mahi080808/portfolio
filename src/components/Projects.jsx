@@ -37,6 +37,7 @@ function Projects() {
       <h2>Projects</h2>
 
       <div
+      id="projects"
         style={{
           display: "flex",
           flexDirection: "column",
